@@ -5,4 +5,5 @@ A list of projects by emoji
 - 👩‍🎤 - [emotion](https://github.com/emotion-js/emotion)
 - 🏁 - [final-form](https://github.com/final-form/final-form)
 - 💄 - [glamorous](https://github.com/paypal/glamorous) [unmaintained]
+- 🐐 - [react-testing-library](https://github.com/kentcdodds/react-testing-library)
 - 💅 - [styled-components](http://styled-components.com/)  
