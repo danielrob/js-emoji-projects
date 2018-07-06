@@ -9,6 +9,7 @@ A list of js projects by emoji
 - 🎒 - [backpack](https://github.com/jaredpalmer/backpack) - Backpack is a minimalistic build system for Node.js projects.
 - 🐦⚡️- [bluebird](https://github.com/petkaantonov/bluebird) - Bluebird is a full featured promise library with unmatched performance.
 - 👜 - [callbag-basics](https://github.com/staltz/callbag-basics) - A standard for JS callbacks that enables lightweight observables and iterables
+- 🖍 - [chalk](https://github.com/chalk/chalk) - Terminal string styling done right
 - 🔀 - [cross-env](https://github.com/kentcdodds/cross-env) - Cross platform setting of environment scripts
 - 🏋️ - [bundlephobia](https://github.com/pastelsky/bundlephobia) - Find out the cost of adding a new frontend dependency to your project 
 - 🐢- [cost-of-modules](https://github.com/siddharthkp/cost-of-modules) - Find out which of your dependencies are slowing you down 
@@ -59,7 +60,6 @@ Other projects for js developers by emoji:
 - 😎 - [awesome](https://github.com/sindresorhus/awesome) - Curated list of awesome lists
 - ⚡️ - [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) Delightful Node.js packages and resources
 - 🍞 - [Toast](https://github.com/daneden/Toast) - A highly-customizable, responsive (S)CSS grid
-- 🖍 - [chalk](https://github.com/chalk/chalk) - Terminal string styling done right
 - 🏖️ - [codesandbox-client](https://github.com/CompuIves/codesandbox-client) An online code editor tailored for web application development 
 - 🔧- [dotfiles](https://github.com/mathiasbynens/dotfiles) -  .files, including ~/.macos — sensible hacker defaults for macOS
 - 🙊- [evil.sh](https://github.com/mathiasbynens/evil.sh) -  Subtle and not-so-subtle shell tweaks that will slowly drive people insane.
