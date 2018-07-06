@@ -1,9 +1,10 @@
 # js-emoji-projects
 A list of js projects by emoji
 
-- 🚀 - [avajs](https://github.com/avajs/ava) - Futuristic JavaScript test runner
-- ✨ - [animate-components](https://github.com/nitin42/animate-components) [wants maintainers] - Elemental components for doing animations in React
+- ✨- [animate-components](https://github.com/nitin42/animate-components) [wants maintainers] - Elemental components for doing animations in React
+- 🅰️- [aframe](https://github.com/aframevr/aframe) - web framework for building virtual reality experiences.
 - ⚡️- [array-explorer](https://github.com/sdras/array-explorer) - A resource to help figure out what JavaScript array method would be best to use at any given time
+- 🚀 - [avajs](https://github.com/avajs/ava) - Futuristic JavaScript test runner
 - 🐠 - [babel](https://github.com/babel/babel) - a compiler for writing next generation JavaScript. 
 - 🐣 - [babel-plugin-preval](https://github.com/kentcdodds/babel-plugin-preval) - Pre-evaluate code at build-time
 - 🎣 - [babel-plugin-macros](https://github.com/kentcdodds/babel-plugin-macros) - Enables zero-config, importable babel plugins
@@ -18,11 +19,14 @@ A list of js projects by emoji
 - ✂️📋 - [clipboard.js](https://github.com/zenorocha/clipboard.js) - Modern copy to clipboard. No Flash. Just 3kb gzipped. 
 - 🐢- [cost-of-modules](https://github.com/siddharthkp/cost-of-modules) - Find out which of your dependencies are slowing you down 
 - 🎨 - [color-wander](https://github.com/mattdesl/color-wander) - Generative artwork in node/browser based on a seeded random
+- 💾- [dat](https://github.com/datproject/dat) - Share & live sync files anywhere via command line
 - ⏳⌛️- [date-fns](https://github.com/date-fns/date-fns) - Modern JavaScript date utility library 
 - ⬅️ - [dedent](https://github.com/dmnd/dedent) - ES6 string tag that strips indentation from multi-line strings.
 - 🃏- [docsify](https://github.com/docsifyjs/docsify) - A magical documentation site generator.
 - 🐙 - [dom-testing-library](https://github.com/kentcdodds/dom-testing-library) - Simple and complete DOM testing utilities that encourage good testing practices. 
 - 🏎️ - [downshift](https://github.com/paypal/downshift) - Primitive to build simple, flexible, WAI-ARIA compliant enhanced input React components
+
+- 🌱- [dvajs](https://github.com/dvajs/dva) - React and redux based, lightweight and elm-style framework. (Inspired by elm and choo)
 - 👩‍🎤 - [emotion](https://github.com/emotion-js/emotion) - style as a function of state 
 - 🏁 - [final-form](https://github.com/final-form/final-form) - Framework agnostic, high performance, subscription-based form state management
 - 😭 - [formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears 
@@ -33,6 +37,7 @@ A list of js projects by emoji
 - 💄 - [glamorous](https://github.com/paypal/glamorous) [unmaintained] - Maintainable CSS with React
 - 🐶 - [husky](https://github.com/typicode/husky) - Git hooks made easy
 - 🃏- [jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
+- 📗- [js-xlsx](https://github.com/SheetJS/js-xlsx) - SheetJS Community Edition -- Spreadsheet Parser and Writer
 - 🎹🎶 - [key-and-pad](https://github.com/joshwcomeau/key-and-pad) - Fun experiment with the Web Audio API 
 - 👦- [ladjs](https://github.com/ladjs/lad) - Lad scaffolds a Koa webapp and API framework for Node.js
 - 🐉- [lerna](https://github.com/lerna/lerna) - A tool for managing JavaScript projects with multiple packages.
@@ -74,6 +79,7 @@ A list of js projects by emoji
 - 👑 - [regl](https://github.com/regl-project/regl) - Functional WebGL
 - 🏊🏾 - [request](https://github.com/request/request) - Simplified HTTP request client.
 - 📦🚀- [semantic-release](https://github.com/semantic-release/semantic-release) - Fully automated version management and package publishing
+- 🐚- [shelljs](https://github.com/shelljs/shelljs) - Portable Unix shell commands for Node.js
 - 💅🍭 - [smooth-ui](https://github.com/smooth-code/smooth-ui) - React UI library based on styled-components 
 - 🤘- [spectacle-code-slide](https://github.com/jamiebuilds/spectacle-code-slide) - Present code with style
 - 💅 - [styled-components](http://styled-components.com/) - Visual primitives for the component age.
@@ -107,9 +113,10 @@ Other projects for js developers by emoji:
 
 JS tutorials by emoji
 - 🎉 - [functional-javascript](https://github.com/jkup/functional-javascript) - A list of functional javascript resources
-- 🏰 - [itsy-bitsy-data-structures](https://github.com/jamiebuilds/itsy-bitsy-data-structures) - All the things you didn't know you wanted to know about data structures
+- 🏰 - [itsy-bitsy-data-structures](https://github.com/jamiebuilds/itsy-bitsy-data-structures) - All the things you didn't 
+know you wanted to know about data structures
+- 🛠️⚡ - [js-stack-from-scratch](https://github.com/verekia/js-stack-from-scratch) - Step-by-step tutorial to build a modern JavaScript stack.
 - ⛄️ - [the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - Possibly the smallest compiler ever
-- 👨‍🏫 - [mike-north](https://github.com/mike-north) - Multiple tutorials by Mike North
 
 ### Contributing
 Know a great project with a chosen emoji? Please submit a PR! As a general rule 500+ stars to include, but useful & interesting projects get a pass. 
