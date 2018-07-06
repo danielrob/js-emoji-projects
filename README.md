@@ -24,7 +24,7 @@ A list of js projects by emoji
 - 🃏- [jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
 - 🎹🎶 - [key-and-pad](https://github.com/joshwcomeau/key-and-pad) - Fun experiment with the Web Audio API 
 - ✂️✨- [loadable-components](https://github.com/smooth-code/loadable-components) - React code splitting made easy
-- ✨🐢🚀✨- [nodejs](https://github.com/nodejs/node) - Node.js JavaScript runtime
+- ✨🐢🚀✨- [nodejs](https://github.com/nodejs/node) - JavaScript runtime
 - 📦🚀- [pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - ✨ - [polished](https://github.com/styled-components/polished) - A lightweight toolset for writing styles in JavaScript
 - ⛵️ - [shipitjs](https://github.com/shipitjs/shipit) - Universal automation and deployment tool
