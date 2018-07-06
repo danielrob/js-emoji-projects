@@ -1,7 +1,7 @@
 # js-emoji-projects
 A list of js projects by emoji
 
-- ✨- [animate-components](https://github.com/nitin42/animate-components) [wants maintainers] - Elemental components for doing animations in React
+- ✨- [animate-components](https://github.com/nitin42/animate-components) - Elemental components for doing animations in React
 - 🅰️- [aframe](https://github.com/aframevr/aframe) - web framework for building virtual reality experiences.
 - ⚡️- [array-explorer](https://github.com/sdras/array-explorer) - A resource to help figure out what JavaScript array method would be best to use at any given time
 - 🚀 - [avajs](https://github.com/avajs/ava) - Futuristic JavaScript test runner
