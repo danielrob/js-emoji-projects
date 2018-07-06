@@ -95,12 +95,13 @@ Other projects for js developers by emoji:
 - 🍿 - [animate.css](https://github.com/daneden/animate.css) - A cross-browser library of CSS animations. As easy to use as an easy thing.
 - 😎 - [awesome](https://github.com/sindresorhus/awesome) - Curated list of awesome lists
 - ⚡️ - [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) Delightful Node.js packages and resources
-- 🍞 - [Toast](https://github.com/daneden/Toast) - A highly-customizable, responsive (S)CSS grid
+- 🗂- [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - The perfect Front-End Checklist for modern websites and meticulous developers
 - 🏖️ - [codesandbox-client](https://github.com/CompuIves/codesandbox-client) An online code editor tailored for web application development 
 - 🔧- [dotfiles](https://github.com/mathiasbynens/dotfiles) -  .files, including ~/.macos — sensible hacker defaults for macOS
 - 🙊- [evil.sh](https://github.com/mathiasbynens/evil.sh) -  Subtle and not-so-subtle shell tweaks that will slowly drive people insane.
 - 🍻 - [homebrew](https://github.com/Homebrew/homebrew-core) - Default formulae for the missing package manager for macOS
 - 😺 - [preact-cli](https://github.com/developit/preact-cli) - Your next Preact PWA starts in 30 seconds.
+- 🍞 - [Toast](https://github.com/daneden/Toast) - A highly-customizable, responsive (S)CSS grid
 - 🛠️ - [vue-cli](https://github.com/vuejs/vue-cli) - CLI for rapid Vue.js development
 - 📝 - [vuepress](https://github.com/vuejs/vuepress) - Minimalistic Vue-powered static site generator
 
