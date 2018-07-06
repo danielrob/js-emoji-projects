@@ -75,7 +75,7 @@ JS tutorials by emoji
 - 👨‍🏫 - [mike-north](https://github.com/mike-north) - Multiple tutorials by Mike North
 
 ### Contributing
-Know a great project with an chosen emoji? Please submit a PR! As a general rule 500+ stars to include, but useful & interesting projects get a pass. 
+Know a great project with a chosen emoji? Please submit a PR! As a general rule 500+ stars to include, but useful & interesting projects get a pass. 
 
 ### Credit
 Thanks to @erikras for the idea https://twitter.com/erikras/status/1014839784773177344
