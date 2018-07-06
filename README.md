@@ -74,6 +74,8 @@ JS tutorials by emoji
 - ⛄️ - [the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - Possibly the smallest compiler ever
 - 👨‍🏫 - [mike-north](https://github.com/mike-north) - Multiple tutorials by Mike North
 
+### Contributing
+Know great project with an chosen emoji? Please submit a PR! As a general rule 500+ stars to include, but useful & interesting projects get a pass. 
 
 ### Credit
 Thanks to @erikras for the idea https://twitter.com/erikras/status/1014839784773177344
