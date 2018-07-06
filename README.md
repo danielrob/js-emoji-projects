@@ -3,11 +3,11 @@ A list of js projects by emoji
 
 - 🚀 - [avajs](https://github.com/avajs/ava) - Futuristic JavaScript test runner
 - ✨ - [animate-components](https://github.com/nitin42/animate-components) [wants maintainers] - Elemental components for doing animations in React
-- 🐠 - [babel](https://github.com/babel/babel) - Babel is a compiler for writing next generation JavaScript. 
+- 🐠 - [babel](https://github.com/babel/babel) - a compiler for writing next generation JavaScript. 
 - 🐣 - [babel-plugin-preval](https://github.com/kentcdodds/babel-plugin-preval) - Pre-evaluate code at build-time
 - 🎣 - [babel-plugin-macros](https://github.com/kentcdodds/babel-plugin-macros) - Enables zero-config, importable babel plugins
-- 🎒 - [backpack](https://github.com/jaredpalmer/backpack) - Backpack is a minimalistic build system for Node.js projects.
-- 🐦⚡️- [bluebird](https://github.com/petkaantonov/bluebird) - Bluebird is a full featured promise library with unmatched performance.
+- 🎒 - [backpack](https://github.com/jaredpalmer/backpack) - a minimalistic build system for Node.js projects.
+- 🐦⚡️- [bluebird](https://github.com/petkaantonov/bluebird) - a full featured promise library with unmatched performance.
 - 👜 - [callbag-basics](https://github.com/staltz/callbag-basics) - A standard for JS callbacks that enables lightweight observables and iterables
 - 🖍 - [chalk](https://github.com/chalk/chalk) - Terminal string styling done right
 - 🔀 - [cross-env](https://github.com/kentcdodds/cross-env) - Cross platform setting of environment scripts
