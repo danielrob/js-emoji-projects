@@ -3,28 +3,30 @@ A list of js projects by emoji
 
 - 🚀 - [avajs](https://github.com/avajs/ava) - Futuristic JavaScript test runner
 - ✨ - [animate-components](https://github.com/nitin42/animate-components) [wants maintainers] - Elemental components for doing animations in React
+- ⚡️- [array-explorer](https://github.com/sdras/array-explorer) - A resource to help figure out what JavaScript array method would be best to use at any given time
 - 🐠 - [babel](https://github.com/babel/babel) - a compiler for writing next generation JavaScript. 
 - 🐣 - [babel-plugin-preval](https://github.com/kentcdodds/babel-plugin-preval) - Pre-evaluate code at build-time
 - 🎣 - [babel-plugin-macros](https://github.com/kentcdodds/babel-plugin-macros) - Enables zero-config, importable babel plugins
 - 🎒 - [backpack](https://github.com/jaredpalmer/backpack) - a minimalistic build system for Node.js projects.
 - 🐦⚡️- [bluebird](https://github.com/petkaantonov/bluebird) - a full featured promise library with unmatched performance.
 - 🍴- [brunch](https://github.com/brunch/brunch) - Fast front-end web app build tool
+- 🏋️ - [bundlephobia](https://github.com/pastelsky/bundlephobia) - Find out the cost of adding a new frontend dependency to your project 
 - 👜 - [callbag-basics](https://github.com/staltz/callbag-basics) - A standard for JS callbacks that enables lightweight observables and iterables
 - 🖍 - [chalk](https://github.com/chalk/chalk) - Terminal string styling done right
 - 🚂🚋 [choojs](https://github.com/choojs/choo) - sturdy 4kb frontend framework
 - 🔀 - [cross-env](https://github.com/kentcdodds/cross-env) - Cross platform setting of environment scripts
-
 - ✂️📋 - [clipboard.js](https://github.com/zenorocha/clipboard.js) - Modern copy to clipboard. No Flash. Just 3kb gzipped. 
-- 🏋️ - [bundlephobia](https://github.com/pastelsky/bundlephobia) - Find out the cost of adding a new frontend dependency to your project 
 - 🐢- [cost-of-modules](https://github.com/siddharthkp/cost-of-modules) - Find out which of your dependencies are slowing you down 
+- 🎨 - [color-wander](https://github.com/mattdesl/color-wander) - Generative artwork in node/browser based on a seeded random
+- ⏳⌛️- [date-fns](https://github.com/date-fns/date-fns) - Modern JavaScript date utility library 
 - ⬅️ - [dedent](https://github.com/dmnd/dedent) - ES6 string tag that strips indentation from multi-line strings.
-
 - 🃏- [docsify](https://github.com/docsifyjs/docsify) - A magical documentation site generator.
 - 🐙 - [dom-testing-library](https://github.com/kentcdodds/dom-testing-library) - Simple and complete DOM testing utilities that encourage good testing practices. 
 - 🏎️ - [downshift](https://github.com/paypal/downshift) - Primitive to build simple, flexible, WAI-ARIA compliant enhanced input React components
 - 👩‍🎤 - [emotion](https://github.com/emotion-js/emotion) - style as a function of state 
 - 🏁 - [final-form](https://github.com/final-form/final-form) - Framework agnostic, high performance, subscription-based form state management
 - 😭 - [formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears 
+- 🚿- [flow-remove-types](https://github.com/flowtype/flow-remove-types) - Removes Flow type annotations from JavaScript files with speed and simplicity.
 - ⚛️📄🚀 - [Gatsby](https://github.com/gatsbyjs/gatsby) - Blazing fast static site generator for React
 - 📝- [gitbook](https://github.com/GitbookIO/gitbook) - Modern documentation format and toolchain using Git and Markdown 
 - 📱- [git-point](https://github.com/gitpoint/git-point) - GitHub in your pocket 
@@ -35,17 +37,21 @@ A list of js projects by emoji
 - 👦- [ladjs](https://github.com/ladjs/lad) - Lad scaffolds a Koa webapp and API framework for Node.js
 - 🐉- [lerna](https://github.com/lerna/lerna) - A tool for managing JavaScript projects with multiple packages.
 - ✂️✨- [loadable-components](https://github.com/smooth-code/loadable-components) - React code splitting made easy
+- 🍔 - [meatier](https://github.com/mattkrick/meatier) - like meteor, but meatier
 - ☕️- [mocha](https://github.com/mochajs/mocha) - simple, flexible, fun javascript test framework for node.js & the browser
 - ✨🐢🚀✨- [nodejs](https://github.com/nodejs/node) - JavaScript runtime
 - ✉️- [nodemailer](https://github.com/nodemailer/nodemailer) - Send e-mails with Node.JS – easy as cake!
 - 💌- [nylas-mail](https://github.com/nylas/nylas-mail) - An extensible desktop mail app built on the modern web.
+- 🔥- [object-explorer](https://github.com/sdras/object-explorer) - A resource to help figure out what JavaScript object method would be best to use at any given time
 - 📦🚀- [parcel](https://github.com/parcel-bundler/parcel) - Blazing fast, zero configuration web application bundler
 - 📦🚀- [pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
+- 📸 - [polacode](https://github.com/octref/polacode) - Polaroid for your code
+- 🐨 - [pouchdb](https://github.com/pouchdb/pouchdb) - PouchDB is a pocket-sized database.
 - ✨ - [polished](https://github.com/styled-components/polished) - A lightweight toolset for writing styles in JavaScript
 - ⚛️- [preact](https://github.com/developit/preact) - Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
 - 🔮- [proxyquire](https://github.com/thlorenz/proxyquire) - Proxies nodejs require in order to allow overriding dependencies during testing.
-- 🐨 - [pouchdb](https://github.com/pouchdb/pouchdb) - PouchDB is a pocket-sized database.
 - ⛵️ - [shipitjs](https://github.com/shipitjs/shipit) - Universal automation and deployment tool
+- ⚛️- [ram](https://github.com/jxnblk/ram) - React Application Manager: create and run React (and other) applications – no command line or build setup required
 - ✨ - [razzle](https://github.com/jaredpalmer/razzle) - Create server-rendered universal JavaScript applications with no configuration
 - 🏅- [realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - ⚛️ - [rebase](https://github.com/jxnblk/rebass) - React UI component library & design system, built with styled-components and styled-system.
@@ -53,17 +59,20 @@ A list of js projects by emoji
 - 🚀- [react-contextual](https://github.com/drcmda/react-contextual) - react-contextual is a small (less than 1KB) helper around React 16s new context api
 - ✍️- [react-copy-write](https://github.com/aweary/react-copy-write) - Immutable state with a mutable API
 - 🌎🛰- [react-geolocation](https://github.com/tkh44/react-geolocation) - Declarative geolocation for React
+- 🖼️- [react-ideal-image](https://github.com/stereobooster/react-ideal-image) - An Almost Ideal React Image Component
 - 📷 - [react-imgpro](https://github.com/nitin42/react-imgpro) -  Image Processing Component for React
 - ⏳- [react-loadable](https://github.com/jamiebuilds/react-loadable) - A higher order component for loading components with promises.
 - 🚧- [react-perimeter](https://github.com/aweary/react-perimeter) - Create an invisible perimeter around an element and respond when its breached.
+- 🚀- [react-server](https://github.com/redfin/react-server) - Blazing fast page load and seamless navigation.
 - ⚛️💎- [react-sketchapp](https://github.com/airbnb/react-sketchapp) - render React components to Sketch
 - 🙌 - [react-spring](https://github.com/drcmda/react-spring) - Helping react-motion and animated to become best friends
 - 🐐 - [react-testing-library](https://github.com/kentcdodds/react-testing-library) - Simple and complete React DOM testing utilities that encourage good testing practices.
 - 📈 - [react-trend](https://github.com/unsplash/react-trend) - Simple, elegant spark lines
 - 📼 - [react-vcr](https://github.com/joshwcomeau/redux-vcr) - Record and replay user sessions
 - 📄 - [redocx](https://github.com/nitin42/redocx) - Create word documents with React
+- ♻️- [redux-ignore](https://github.com/omnidan/redux-ignore) - higher-order reducer to ignore redux actions
+- 👑 - [regl](https://github.com/regl-project/regl) - Functional WebGL
 - 🏊🏾 - [request](https://github.com/request/request) - Simplified HTTP request client.
-
 - 📦🚀- [semantic-release](https://github.com/semantic-release/semantic-release) - Fully automated version management and package publishing
 - 💅🍭 - [smooth-ui](https://github.com/smooth-code/smooth-ui) - React UI library based on styled-components 
 - 🤘- [spectacle-code-slide](https://github.com/jamiebuilds/spectacle-code-slide) - Present code with style
@@ -72,6 +81,8 @@ A list of js projects by emoji
 - 🦁 - [svgr](https://github.com/smooth-code/svgr) - Transform SVG into React components 
 - ⏰- [tinytime](https://github.com/aweary/tinytime) - A straightforward date and time formatter in <1kb
 - 👨‍💻 - [terminal-in-react](https://github.com/nitin42/terminal-in-react) - A component that renders a terminal
+- 🚗- [uber-cli](https://github.com/jaebradley/uber-cli) - Uber, at your fingertips
+- 🤖- [unsplash-js](https://github.com/unsplash/unsplash-js) - A Universal JavaScript wrapper for the Unsplash API
 - 🖖 - [vuejs](https://github.com/vuejs/vue) - A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - 🚦- [vue-router](https://github.com/vuejs/vue-router) - The official router for Vue.js.
 - 🗃️ - [vuex](https://github.com/vuejs/vuex) - Centralized State Management for Vue.js.
