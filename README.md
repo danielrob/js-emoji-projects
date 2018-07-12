@@ -123,8 +123,9 @@ know you wanted to know about data structures
 - 🛠️⚡ - [js-stack-from-scratch](https://github.com/verekia/js-stack-from-scratch) - Step-by-step tutorial to build a modern JavaScript stack.
 - ⛄️ - [the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - Possibly the smallest compiler ever
 
-honorable mention
-- ⚡ - [AMP](https://github.com/ampproject/amphtml) - its official logo is a non-emoji lightning bolt, but AMP specifies that html opening tag contains ⚡ *<html ⚡>* - also used liberally in its README
+Honourable mentions
+- ⚡ - [AMP](https://github.com/ampproject/amphtml) - The Accelerated Mobile Pages Project is an open-source initiative aiming to make the web better for all. Its official logo is a non-emoji lightning bolt, but AMP specifies that html opening tag contains ⚡ *<html ⚡>* - also used liberally in its README.
+- 📠- [FaxJs](https://github.com/jordwalke/FaxJs) - The React that wasn't. If emojis were a thing on projects back then, surely FaxJs would have taken the prize.
 
 ### General emoji tools
  - [copychar](http://copychar.cc/emoji) - find emojis and copy to clipboard with click of a button
