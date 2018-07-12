@@ -28,10 +28,12 @@ A list of js projects by emoji
 
 - 🌱- [dvajs](https://github.com/dvajs/dva) - React and redux based, lightweight and elm-style framework. (Inspired by elm and choo)
 - 👩‍🎤 - [emotion](https://github.com/emotion-js/emotion) - style as a function of state 
+- 🤖 - [faste](https://github.com/theKashey/faste) - Finite state machine manager
 - 🏁 - [final-form](https://github.com/final-form/final-form) - Framework agnostic, high performance, subscription-based form state management
 - 😭 - [formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears 
 - 🚿- [flow-remove-types](https://github.com/flowtype/flow-remove-types) - Removes Flow type annotations from JavaScript files with speed and simplicity.
 - ⚛️📄🚀 - [Gatsby](https://github.com/gatsbyjs/gatsby) - Blazing fast static site generator for React
+- ⚙️ - [gearbox](https://github.com/theKashey/react-gearbox) - React renderless containers composer
 - 📝- [gitbook](https://github.com/GitbookIO/gitbook) - Modern documentation format and toolchain using Git and Markdown 
 - 📱- [git-point](https://github.com/gitpoint/git-point) - GitHub in your pocket 
 - 💄 - [glamorous](https://github.com/paypal/glamorous) [unmaintained] - Maintainable CSS with React
@@ -63,6 +65,7 @@ A list of js projects by emoji
 - 🎊- [react-animations](https://github.com/FormidableLabs/react-animations) - A collection of animations for inline style libraries
 - 🚀- [react-contextual](https://github.com/drcmda/react-contextual) - react-contextual is a small (less than 1KB) helper around React 16s new context api
 - ✍️- [react-copy-write](https://github.com/aweary/react-copy-write) - Immutable state with a mutable API
+- 🔓 - [react-focus-lock](https://github.com/theKashey/react-focus-lock) - React focus management
 - 🌎🛰- [react-geolocation](https://github.com/tkh44/react-geolocation) - Declarative geolocation for React
 - 🖼️- [react-ideal-image](https://github.com/stereobooster/react-ideal-image) - An Almost Ideal React Image Component
 - 📷 - [react-imgpro](https://github.com/nitin42/react-imgpro) -  Image Processing Component for React
@@ -71,6 +74,7 @@ A list of js projects by emoji
 - 🚀- [react-server](https://github.com/redfin/react-server) - Blazing fast page load and seamless navigation.
 - ⚛️💎- [react-sketchapp](https://github.com/airbnb/react-sketchapp) - render React components to Sketch
 - 🙌 - [react-spring](https://github.com/drcmda/react-spring) - Helping react-motion and animated to become best friends
+- 🚶‍ - [react-stroller](https://github.com/theKashey/React-stroller) - React custom scrolls
 - 🐐 - [react-testing-library](https://github.com/kentcdodds/react-testing-library) - Simple and complete React DOM testing utilities that encourage good testing practices.
 - 📈 - [react-trend](https://github.com/unsplash/react-trend) - Simple, elegant spark lines
 - 📼 - [react-vcr](https://github.com/joshwcomeau/redux-vcr) - Record and replay user sessions
