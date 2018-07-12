@@ -118,6 +118,9 @@ know you wanted to know about data structures
 - 🛠️⚡ - [js-stack-from-scratch](https://github.com/verekia/js-stack-from-scratch) - Step-by-step tutorial to build a modern JavaScript stack.
 - ⛄️ - [the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - Possibly the smallest compiler ever
 
+honorable mention
+- ⚡ - [AMP](https://github.com/ampproject/amphtml) - its official logo is a non-emoji lightning bolt, but AMP specifies that html opening tag contains ⚡ *<html ⚡>* - also used liberally in its README
+
 ### General emoji tools
  - [copychar](http://copychar.cc/emoji) - find emojis and copy to clipboard with click of a button
 
