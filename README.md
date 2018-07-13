@@ -26,7 +26,6 @@ A list of js projects by emoji
 - 🃏- [docsify](https://github.com/docsifyjs/docsify) - A magical documentation site generator.
 - 🐙 - [dom-testing-library](https://github.com/kentcdodds/dom-testing-library) - Simple and complete DOM testing utilities that encourage good testing practices. 
 - 🏎️ - [downshift](https://github.com/paypal/downshift) - Primitive to build simple, flexible, WAI-ARIA compliant enhanced input React components
-
 - 🌱- [dvajs](https://github.com/dvajs/dva) - React and redux based, lightweight and elm-style framework. (Inspired by elm and choo)
 - 👩‍🎤 - [emotion](https://github.com/emotion-js/emotion) - style as a function of state 
 - 🤖 - [faste](https://github.com/theKashey/faste) - Finite state machine manager
@@ -45,6 +44,7 @@ A list of js projects by emoji
 - 👦- [ladjs](https://github.com/ladjs/lad) - Lad scaffolds a Koa webapp and API framework for Node.js
 - 🐉- [lerna](https://github.com/lerna/lerna) - A tool for managing JavaScript projects with multiple packages.
 - ✂️✨- [loadable-components](https://github.com/smooth-code/loadable-components) - React code splitting made easy
+- ⚡ - [majestic](https://github.com/Raathigesh/majestic) - ⚗ Zero config UI for Jest ⚗
 - 🍔 - [meatier](https://github.com/mattkrick/meatier) - like meteor, but meatier
 - ☕️- [mocha](https://github.com/mochajs/mocha) - simple, flexible, fun javascript test framework for node.js & the browser
 - ✨🐢🚀✨- [nodejs](https://github.com/nodejs/node) - JavaScript runtime
