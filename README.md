@@ -127,6 +127,9 @@ Honourable mentions
 - ⚡ - [AMP](https://github.com/ampproject/amphtml) - The Accelerated Mobile Pages Project is an open-source initiative aiming to make the web better for all. Its official logo is a non-emoji lightning bolt, but AMP specifies that html opening tag contains ⚡ *<html ⚡>* - also used liberally in its README.
 - 📠- [FaxJs](https://github.com/jordwalke/FaxJs) - The React that wasn't. If emojis were a thing on projects back then, surely FaxJs would have taken the prize.
 
+Conferences
+- 🐙🤖 [React Rally](https://www.reactrally.com/)
+
 ### General emoji tools
  - [copychar](http://copychar.cc/emoji) - find emojis and copy to clipboard with click of a button
 
