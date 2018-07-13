@@ -116,19 +116,20 @@ Other projects for js developers by emoji:
 - 🛠️ - [vue-cli](https://github.com/vuejs/vue-cli) - CLI for rapid Vue.js development
 - 📝 - [vuepress](https://github.com/vuejs/vuepress) - Minimalistic Vue-powered static site generator
 
-JS tutorials by emoji
+JS tutorials / educational by emoji
 - 🎉 - [functional-javascript](https://github.com/jkup/functional-javascript) - A list of functional javascript resources
 - 🏰 - [itsy-bitsy-data-structures](https://github.com/jamiebuilds/itsy-bitsy-data-structures) - All the things you didn't 
 know you wanted to know about data structures
 - 🛠️⚡ - [js-stack-from-scratch](https://github.com/verekia/js-stack-from-scratch) - Step-by-step tutorial to build a modern JavaScript stack.
 - ⛄️ - [the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - Possibly the smallest compiler ever
+- 🎁 - [wbpck-bundler](https://github.com/adamisntdead/wbpck-bundler) - A Little Toy Javascript Module Bundler
 
 Honourable mentions
 - ⚡ - [AMP](https://github.com/ampproject/amphtml) - The Accelerated Mobile Pages Project is an open-source initiative aiming to make the web better for all. Its official logo is a non-emoji lightning bolt, but AMP specifies that html opening tag contains ⚡ *<html ⚡>* - also used liberally in its README.
-- 📠- [FaxJs](https://github.com/jordwalke/FaxJs) - The React that wasn't. If emojis were a thing on projects back then, surely FaxJs would have taken the prize.
+- 📠 - [FaxJs](https://github.com/jordwalke/FaxJs) - The React that wasn't. If emojis were a thing on projects back then, surely FaxJs would have taken the prize.
 
 Conferences
-- 🐙🤖 [React Rally](https://www.reactrally.com/)
+- 🐙🤖 - [React Rally](https://www.reactrally.com/)
 
 ### General emoji tools
  - [copychar](http://copychar.cc/emoji) - find emojis and copy to clipboard with click of a button
