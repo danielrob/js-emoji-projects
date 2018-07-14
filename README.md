@@ -37,6 +37,7 @@ A list of js projects by emoji
 - 📝- [gitbook](https://github.com/GitbookIO/gitbook) - Modern documentation format and toolchain using Git and Markdown 
 - 📱- [git-point](https://github.com/gitpoint/git-point) - GitHub in your pocket 
 - 💄 - [glamorous](https://github.com/paypal/glamorous) [unmaintained] - Maintainable CSS with React
+- 🐠 - [Guppy](https://github.com/joshwcomeau/guppy) - A friendly application manager and task runner for React.js
 - 🐶 - [husky](https://github.com/typicode/husky) - Git hooks made easy
 - 🃏- [jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
 - 📗- [js-xlsx](https://github.com/SheetJS/js-xlsx) - SheetJS Community Edition -- Spreadsheet Parser and Writer
