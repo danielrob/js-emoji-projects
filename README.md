@@ -133,7 +133,7 @@ Smol projects
 
 </details>
 
-<br><br>
+<br>
 
 Honourable mentions
 - ⚡ - [AMP](https://github.com/ampproject/amphtml) - The Accelerated Mobile Pages Project is an open-source initiative aiming to make the web better for all. Its official logo is a non-emoji lightning bolt, but AMP specifies that html opening tag contains ⚡ *<html ⚡>* - also used liberally in its README.
