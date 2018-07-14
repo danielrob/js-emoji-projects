@@ -117,6 +117,7 @@ Other projects for js developers by emoji:
 - 📝 - [vuepress](https://github.com/vuejs/vuepress) - Minimalistic Vue-powered static site generator
 
 JS tutorials / educational by emoji
+- 🤓 - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) Build your own (insert technology here) - tutorials for building X. 
 - 🎉 - [functional-javascript](https://github.com/jkup/functional-javascript) - A list of functional javascript resources
 - 🏰 - [itsy-bitsy-data-structures](https://github.com/jamiebuilds/itsy-bitsy-data-structures) - All the things you didn't 
 know you wanted to know about data structures
