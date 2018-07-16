@@ -1,5 +1,5 @@
 # js-emoji-projects
-A list of js projects by emoji
+A list of js projects with an official emoji
 
 - ✨- [animate-components](https://github.com/nitin42/animate-components) - Elemental components for doing animations in React
 - 🅰️- [aframe](https://github.com/aframevr/aframe) - web framework for building virtual reality experiences.
