@@ -62,6 +62,7 @@ A list of js projects by emoji
 - ⛵️ - [shipitjs](https://github.com/shipitjs/shipit) - Universal automation and deployment tool
 - ⚛️- [ram](https://github.com/jxnblk/ram) - React Application Manager: create and run React (and other) applications – no command line or build setup required
 - ✨ - [razzle](https://github.com/jaredpalmer/razzle) - Create server-rendered universal JavaScript applications with no configuration
+- 🔥- [react-boilerplate](https://github.com/react-boilerplate/react-boilerplate) - A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.
 - 🏅- [realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - ⚛️ - [rebase](https://github.com/jxnblk/rebass) - React UI component library & design system, built with styled-components and styled-system.
 - 🎊- [react-animations](https://github.com/FormidableLabs/react-animations) - A collection of animations for inline style libraries
