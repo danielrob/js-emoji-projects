@@ -130,6 +130,7 @@ know you wanted to know about data structures
 Honourable mentions
 - ⚡ - [AMP](https://github.com/ampproject/amphtml) - The Accelerated Mobile Pages Project is an open-source initiative aiming to make the web better for all. Its official logo is a non-emoji lightning bolt, but AMP specifies that html opening tag contains ⚡ *<html ⚡>* - also used liberally in its README.
 - 📠 - [FaxJs](https://github.com/jordwalke/FaxJs) - The React that wasn't. If emojis were a thing on projects back then, surely FaxJs would have taken the prize.
+- 🏆 - [uiengine](https://github.com/dennisreimann/uiengine) - Workbench for UI-driven development. They currently win the "emojis in commit messages" award, as well as excellent use of emoji's in the documentation. 
 
 Conferences
 - 🐙🤖 - [React Rally](https://www.reactrally.com/)
