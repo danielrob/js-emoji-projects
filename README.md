@@ -96,6 +96,7 @@ A list of js projects with an official emoji
 - 👨‍💻 - [terminal-in-react](https://github.com/nitin42/terminal-in-react) - A component that renders a terminal
 - 🚗- [uber-cli](https://github.com/jaebradley/uber-cli) - Uber, at your fingertips
 - 🤖- [unsplash-js](https://github.com/unsplash/unsplash-js) - A Universal JavaScript wrapper for the Unsplash API
+- 🐶 - [uppy](https://github.com/transloadit/uppy/) - The next open source file uploader for web browsers. 
 - 🖖 - [vuejs](https://github.com/vuejs/vue) - A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - 🚦- [vue-router](https://github.com/vuejs/vue-router) - The official router for Vue.js.
 - 🗃️ - [vuex](https://github.com/vuejs/vuex) - Centralized State Management for Vue.js.
