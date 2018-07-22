@@ -114,6 +114,7 @@ Other projects for js developers by emoji:
 - 🙊- [evil.sh](https://github.com/mathiasbynens/evil.sh) -  Subtle and not-so-subtle shell tweaks that will slowly drive people insane.
 - 🗂- [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - The perfect Front-End Checklist for modern websites and meticulous developers
 - 😜 - [gitmoji](https://github.com/carloscuesta/gitmoji/) - An emoji guide for your commit messages.
+- 💻 - [gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - A gitmoji interactive command line tool for using emojis on commits.
 - 🍻 - [homebrew](https://github.com/Homebrew/homebrew-core) - Default formulae for the missing package manager for macOS
 - 😺 - [preact-cli](https://github.com/developit/preact-cli) - Your next Preact PWA starts in 30 seconds.
 - 🍞 - [Toast](https://github.com/daneden/Toast) - A highly-customizable, responsive (S)CSS grid
