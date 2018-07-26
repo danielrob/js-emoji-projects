@@ -20,6 +20,7 @@ A list of js projects with an official emoji
 - ✂️📋 - [clipboard.js](https://github.com/zenorocha/clipboard.js) - Modern copy to clipboard. No Flash. Just 3kb gzipped. 
 - 🐢- [cost-of-modules](https://github.com/siddharthkp/cost-of-modules) - Find out which of your dependencies are slowing you down 
 - 🎨 - [color-wander](https://github.com/mattdesl/color-wander) - Generative artwork in node/browser based on a seeded random
+- ⚠️ - [danger-js](https://github.com/danger/danger-js) - Stop saying "you forgot to …" in code review 
 - 💾- [dat](https://github.com/datproject/dat) - Share & live sync files anywhere via command line
 - ⏳⌛️- [date-fns](https://github.com/date-fns/date-fns) - Modern JavaScript date utility library 
 - ⬅️ - [dedent](https://github.com/dmnd/dedent) - ES6 string tag that strips indentation from multi-line strings.
