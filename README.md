@@ -40,15 +40,16 @@ A list of js projects with an official emoji
 - 💄 - [glamorous](https://github.com/paypal/glamorous) [unmaintained] - Maintainable CSS with React
 - 🐠 - [Guppy](https://github.com/joshwcomeau/guppy) - A friendly application manager and task runner for React.js
 - 🐶 - [husky](https://github.com/typicode/husky) - Git hooks made easy
-- 🃏- [jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
-- 📗- [js-xlsx](https://github.com/SheetJS/js-xlsx) - SheetJS Community Edition -- Spreadsheet Parser and Writer
+- 🃏 - [jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
+- 📗 - [js-xlsx](https://github.com/SheetJS/js-xlsx) - SheetJS Community Edition -- Spreadsheet Parser and Writer
 - 🎹🎶 - [key-and-pad](https://github.com/joshwcomeau/key-and-pad) - Fun experiment with the Web Audio API 
-- 👦- [ladjs](https://github.com/ladjs/lad) - Lad scaffolds a Koa webapp and API framework for Node.js
-- 🐉- [lerna](https://github.com/lerna/lerna) - A tool for managing JavaScript projects with multiple packages.
+- 👦 - [ladjs](https://github.com/ladjs/lad) - Lad scaffolds a Koa webapp and API framework for Node.js
+- 🐉 - [lerna](https://github.com/lerna/lerna) - A tool for managing JavaScript projects with multiple packages.
+- 🌍📖 - [js-lingui](https://github.com/lingui/js-lingui) - A readable, automated, and optimized (5 kb) internationalization for JavaScript and React 
 - ✂️✨- [loadable-components](https://github.com/smooth-code/loadable-components) - React code splitting made easy
 - ⚡ - [majestic](https://github.com/Raathigesh/majestic) - ⚗ Zero config UI for Jest ⚗
 - 🍔 - [meatier](https://github.com/mattkrick/meatier) - like meteor, but meatier
-- ☕️- [mocha](https://github.com/mochajs/mocha) - simple, flexible, fun javascript test framework for node.js & the browser
+- ☕️ - [mocha](https://github.com/mochajs/mocha) - simple, flexible, fun javascript test framework for node.js & the browser
 - ✨🐢🚀✨- [nodejs](https://github.com/nodejs/node) - JavaScript runtime
 - ✉️- [nodemailer](https://github.com/nodemailer/nodemailer) - Send e-mails with Node.JS – easy as cake!
 - 💌- [nylas-mail](https://github.com/nylas/nylas-mail) - An extensible desktop mail app built on the modern web.
