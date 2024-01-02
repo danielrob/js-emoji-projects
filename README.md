@@ -1,6 +1,7 @@
 # js-emoji-projects
 A list of js projects with an official emoji
 
+- 🕚⚡️🎈🐀 - [11ty](https://github.com/11ty/eleventy/) - Static site generation
 - ✨- [animate-components](https://github.com/nitin42/animate-components) - Elemental components for doing animations in React
 - 🅰️- [aframe](https://github.com/aframevr/aframe) - web framework for building virtual reality experiences.
 - 🍸🍹- [aperitif-editor](https://github.com/danielrob/aperitif-editor) - An editor for starting React apps and features based on API data
